@@ -10,6 +10,11 @@ Development is paused at **v0.1.1** at Edward's request. We will resume when
 the PT2 / PebbleOS developers expose supported system diagnostics to watchapps.
 Inspect's own heap readings do not fulfill the intended whole-watch monitor.
 
+Upstream feature request: [coredevices/PebbleOS#2509 — read-only system memory
+and storage diagnostics for PT2](https://github.com/coredevices/PebbleOS/issues/2509).
+The proposal asks maintainers about a built-in diagnostics page/report or a
+supported SDK surface; it does not commit this project to a firmware fork.
+
 | Metric | Stock Inspect |
 | --- | --- |
 | Inspect heap used/free/total | Available |
