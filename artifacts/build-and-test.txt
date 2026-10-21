@@ -1,0 +1,50 @@
+sh scripts/test.sh
+core: connection scope, forecasts, bounds, saturation, codec and corruption passed
+storage: generations, corruption fallback, write/read fault matrix, schema, wrap and observation gaps passed
+UI formatting tests passed
+sh scripts/build.sh
+/home/ubuntu/projects/pebble-inspect/resources/images/inspect.png
+Setting top to                           : /home/ubuntu/projects/pebble-inspect
+Setting out to                           : /home/ubuntu/projects/pebble-inspect/build
+Checking for program 'webpack'           : /home/ubuntu/.local/share/pebble-sdk/SDKs/4.33.1/node_modules/.bin/webpack
+Found Pebble SDK for emery in:           : /home/ubuntu/.local/share/pebble-sdk/SDKs/4.33.1/sdk-core/pebble/emery
+Checking for program 'gcc, cc'           : arm-none-eabi-gcc
+Checking for program 'ar'                : arm-none-eabi-ar
+'configure' finished successfully (0.054s)
+Waf: Entering directory `/home/ubuntu/projects/pebble-inspect/build'
+[1/1] Creating message_key_header:  -> build/include/message_keys.auto.h
+[ 2/21] Compiling emery | reso: resources/images/inspect.png -> build/emery/resources/images/inspect.png.MENU_ICON.reso
+[ 3/21] Creating emery | /home/ubuntu/projects/pebble-inspect/build/emery/appinfo.auto.c:  -> build/emery/appinfo.auto.c
+[ 4/21] Compiling emery | subst: ../../.local/share/pebble-sdk/SDKs/4.33.1/sdk-core/pebble/common/pebble_app.ld.template -> build/emery/pebble_app.ld.auto
+[ 5/21] Compiling emery | c: src/c/capabilities.c -> build/src/c/capabilities.c.9.o
+[ 6/21] Compiling emery | c: src/c/codec.c -> build/src/c/codec.c.9.o
+[ 7/21] Compiling emery | c: src/c/model.c -> build/src/c/model.c.9.o
+[ 8/21] Creating emery | /home/ubuntu/projects/pebble-inspect/build/appinfo.json:  -> build/appinfo.json
+[ 9/21] Compiling emery | resource_ball: build/emery/resources/images/inspect.png.MENU_ICON.reso -> build/emery/system_resources.resball
+[10/21] Compiling emery | generate_resource_id_definitions: build/emery/system_resources.resball -> build/emery/src/resource_ids.auto.c
+[11/21] Compiling emery | generate_pbpack: build/emery/system_resources.resball -> build/emery/app_resources.pbpack
+[12/21] Compiling emery | c: build/emery/src/resource_ids.auto.c -> build/emery/src/resource_ids.auto.c.9.o
+[13/21] Compiling emery | generate_resource_id_header: build/emery/system_resources.resball -> build/emery/src/resource_ids.auto.h
+[14/21] Compiling emery | c: src/c/main.c -> build/src/c/main.c.9.o
+[15/21] Compiling emery | c: src/c/ui.c -> build/src/c/ui.c.9.o
+[16/21] Compiling emery | c: build/emery/appinfo.auto.c -> build/emery/appinfo.auto.c.9.o
+[17/21] Compiling emery | c: src/c/storage.c -> build/src/c/storage.c.9.o
+[18/21] Compiling emery | c: src/c/ui_format.c -> build/src/c/ui_format.c.9.o
+[19/21] Compiling emery | c: src/c/provider.c -> build/src/c/provider.c.9.o
+[20/21] Linking emery | cprogram: build/src/c/capabilities.c.9.o build/src/c/codec.c.9.o build/src/c/main.c.9.o build/src/c/model.c.9.o build/src/c/provider.c.9.o build/src/c/storage.c.9.o build/src/c/ui.c.9.o build/src/c/ui_format.c.9.o build/emery/appinfo.auto.c.9.o build/emery/src/resource_ids.auto.c.9.o -> build/emery/pebble-app.elf
+/home/ubuntu/.local/share/pebble-sdk/SDKs/4.33.1/toolchain/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/ld: warning: /home/ubuntu/projects/pebble-inspect/build/emery/pebble-app.elf has a LOAD segment with RWX permissions
+
+[21/21] Processing emery | memory_usage_report: build/emery/pebble-app.elf build/emery/app_resources.pbpack
+-------------------------------------------------------
+EMERY APP MEMORY USAGE
+Total size of resources:        4263 bytes / 256.0KB
+Total footprint in RAM:         24857 bytes / 128.0KB
+Free RAM available (heap):      106215 bytes
+-------------------------------------------------------
+[22/24] Compiling emery | /home/ubuntu/projects/pebble-inspect/build/emery/pebble-app.raw.bin: build/emery/pebble-app.elf -> build/emery/pebble-app.raw.bin
+[23/24] Processing emery | inject-metadata: build/emery/pebble-app.raw.bin build/emery/pebble-app.elf build/emery/app_resources.pbpack -> build/emery/pebble-app.bin
+[24/24] Creating app_bundle:  -> build/pebble-inspect.pbw
+Waf: Leaving directory `/home/ubuntu/projects/pebble-inspect/build'
+'build' finished successfully (0.506s)
+/home/ubuntu/projects/pebble-inspect/artifacts/pebble-inspect-0.1.1.pbw: 22412 bytes
+SHA-256: f985c3b017abad520c8abe8bfe060b72ea147df2cbdffe5c0b3989e94bc3dd1c

@@ -1,0 +1,4 @@
+sh scripts/test.sh
+core: connection scope, forecasts, bounds, saturation, codec and corruption passed
+storage: generations, corruption fallback, write/read fault matrix, schema, wrap and observation gaps passed
+UI formatting tests passed

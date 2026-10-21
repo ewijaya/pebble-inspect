@@ -1,0 +1,29 @@
+Captured overview
+Captured menu
+Captured overview
+Captured overview-scrolled
+Captured overview-bottom
+Captured battery
+Captured battery-scrolled
+Captured battery-bottom
+Captured connection
+Captured connection-scrolled
+Captured connection-bottom
+Captured memory
+Captured memory-scrolled
+Captured memory-bottom
+Captured device
+Captured device-scrolled
+Captured device-bottom
+Captured capabilities
+Captured capabilities-scrolled
+Captured capabilities-bottom
+Captured battery-charging
+Waiting 30s for the firmware disconnect debounce
+Captured connection-disconnected
+Captured connection-scope
+Captured connection-events
+Captured connection-after-reopen
+Captured connection-after-reopen-counts
+Captured memory-after-reopen
+Emulator smoke passed; entry heap: [1352, 1352, 1352, 1352, 1352, 1352, 1352, 1352, 1352] navigation heap: [1272, 1352, 1420, 1568, 1796, 1944]

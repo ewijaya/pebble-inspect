@@ -1,0 +1,32 @@
+{
+  "artifact": "pebble-inspect-0.1.1.pbw",
+  "sha256": "f985c3b017abad520c8abe8bfe060b72ea147df2cbdffe5c0b3989e94bc3dd1c",
+  "bytes": 22412,
+  "uuid": "2de5b9f0-ee00-4a27-9474-5aacd231c6ac",
+  "version": "0.1.1",
+  "platforms": [
+    "emery"
+  ],
+  "pebble_tool": "5.0.40",
+  "sdk": "4.33.1",
+  "input_sha256": {
+    "package.json": "6eb6fd3a0a108e66c5add94368a56604bb9fed09d37c45d9fb4f4f43ad48e927",
+    "wscript": "8cfdbb703c01360c90393fe9a47b99f13adadd99f24cefbd82ad807add374068",
+    "src/c/capabilities.c": "2521c4e17fdcacc1c23d63e51ebbc2836cc691991b6fadfda9f7d6e043ab4bf0",
+    "src/c/capabilities.h": "53504c0acbaf3465e88c52084af7b8e1e66b3f4a74e840bc0f1370396db52f3b",
+    "src/c/codec.c": "12bb96e966b35bc8b18e04c253fca937015f487342845253d25bc86daef622dd",
+    "src/c/codec.h": "9ae4a0084d8009fe378aa90a46ddcaa7ac62611ebac1a4e66c08217a97f64c67",
+    "src/c/main.c": "c23c75e5eea2cbf586bc821a925e7cf74b6ad26b0efb317dc80db2c678881954",
+    "src/c/model.c": "4c9e64de79e2d96d2e30a04caf1f905ac75e6935b98f4a1c2eb4d65270b80e5c",
+    "src/c/model.h": "b8816ba71afe4a6bb544cc507b2c9bed007328e94e0f3cfaaf36453541efb5c4",
+    "src/c/provider.c": "3c92b04d97f0dfa4013591625ce6e912e467d53991df0dd0d285ee62b98de103",
+    "src/c/provider.h": "8ff11bdc8b3674740355bacc02c24135ba6a94d5e7e64a138ac006639f7dd0d4",
+    "src/c/storage.c": "9d90522d226e8354fa85d50db7d3b381a05bda47d3caf716335482b7327e2da6",
+    "src/c/storage.h": "d81a158a409998726aa55610d21e1057762fbf0c3ff0681cc6e96f67d0f8238c",
+    "src/c/ui.c": "9e2f1f3a921b7bc6ceb19968c503fe6c337153279956a87365a83f1a93344f57",
+    "src/c/ui.h": "5f1c13ce27c88da8b289b4dfc21dcfb9c912af2bae72e274f4b42901e668b884",
+    "src/c/ui_format.c": "4691ce14ff72bb73a5347dd9deb5d9394ee6230010712e8d61e4f7134a1c00c9",
+    "src/c/ui_format.h": "3c3a51867a56e46df86c43c36dbccbf49b0149702b151c360b1f818e7212a078",
+    "resources/images/inspect.png": "db326a7cc40f1fed097f6f275ada5f1428ca97de9389a058b25bd470d61aa0f1"
+  }
+}

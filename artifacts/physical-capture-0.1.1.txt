@@ -1,0 +1,52 @@
+N/A%[=                                                      ]   0.0 B/s 0:00:00
+N/A%[=                                                      ] 647.5 B/s 0:00:03
+N/A%[=                                                      ] 669.3 B/s 0:00:04
+N/A%[=                                                      ] 646.0 B/s 0:00:06
+N/A%[=                                                      ] 577.7 B/s 0:00:08
+N/A%[=                                                      ] 686.7 B/s 0:00:08
+N/A%[=                                                      ] 794.4 B/s 0:00:09
+N/A%[=                                                      ] 899.9 B/s 0:00:09
+N/A%[=                                                     ] 1004.7 B/s 0:00:09
+N/A%[=                                                    ]   1.1 KiB/s 0:00:09
+N/A%[=                                                    ]   1.3 KiB/s 0:00:09
+N/A%[=                                                    ]   1.5 KiB/s 0:00:09
+N/A%[=                                                    ]   1.6 KiB/s 0:00:09
+N/A%[=                                                    ]   1.7 KiB/s 0:00:09
+N/A%[=                                                    ]   1.7 KiB/s 0:00:09
+N/A%[=                                                    ]   1.8 KiB/s 0:00:09
+N/A%[=                                                    ]   1.9 KiB/s 0:00:09
+N/A%[=                                                    ]   2.0 KiB/s 0:00:09
+N/A%[=                                                    ]   2.1 KiB/s 0:00:10
+N/A%[=                                                    ]   2.2 KiB/s 0:00:10
+N/A%[=                                                    ]   2.2 KiB/s 0:00:10
+N/A%[=                                                    ]   2.3 KiB/s 0:00:10
+N/A%[=                                                    ]   2.4 KiB/s 0:00:10
+N/A%[=                                                    ]   2.5 KiB/s 0:00:10
+N/A%[=                                                    ]   2.6 KiB/s 0:00:10
+N/A%[=                                                    ]   2.6 KiB/s 0:00:10
+N/A%[=                                                    ]   2.7 KiB/s 0:00:10
+N/A%[=                                                    ]   2.8 KiB/s 0:00:10
+N/A%[=                                                    ]   2.9 KiB/s 0:00:10
+N/A%[=                                                    ]   2.9 KiB/s 0:00:10
+N/A%[=                                                    ]   3.0 KiB/s 0:00:10
+N/A%[=                                                    ]   3.1 KiB/s 0:00:11
+N/A%[=                                                    ]   3.1 KiB/s 0:00:11
+N/A%[=                                                    ]   3.2 KiB/s 0:00:11
+N/A%[=                                                    ]   3.3 KiB/s 0:00:11
+N/A%[=                                                    ]   3.3 KiB/s 0:00:11
+N/A%[=                                                    ]   3.4 KiB/s 0:00:11
+N/A%[=                                                    ]   3.5 KiB/s 0:00:11
+N/A%[=                                                    ]   3.5 KiB/s 0:00:11
+N/A%[=                                                    ]   3.6 KiB/s 0:00:11
+N/A%[=                                                    ]   3.7 KiB/s 0:00:11
+N/A%[=                                                    ]   3.7 KiB/s 0:00:11
+N/A%[=                                                    ]   3.7 KiB/s 0:00:11
+CloudPebble proxy host: wss://cloudpebble-proxy.repebble.com/tool-v2
+CloudPebble auth mode: firebase-v2
+Connected to CloudPebble proxy websocket.
+Sending v2 auth frame...
+CloudPebble proxy authentication succeeded.
+Waiting for phone to connect...
+CloudPebble connection status packet: 255
+Connected.
+Saved screenshot to artifacts/pt2-0.1.1-installed.png

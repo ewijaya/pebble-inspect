@@ -1,0 +1,626 @@
+{
+  "scope": "Emery emulator only; service states injected by this script",
+  "entry_heap_bytes": [
+    1352,
+    1352,
+    1352,
+    1352,
+    1352,
+    1352,
+    1352,
+    1352,
+    1352
+  ],
+  "navigation_heap_bytes": [
+    1272,
+    1352,
+    1420,
+    1568,
+    1796,
+    1944
+  ],
+  "steady_navigation_heap_bytes": [
+    1944,
+    1944,
+    1944,
+    1944,
+    1944,
+    1944
+  ],
+  "exit_allocated_bytes": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "entry_cycles": 9,
+  "screens_checked": 6,
+  "disconnect_wait_seconds": 30,
+  "logs": [
+    {
+      "timestamp": 1792557463,
+      "level": 100,
+      "message": "Navigation heap used=1420 free=104788 peak=1796"
+    },
+    {
+      "timestamp": 1792557464,
+      "level": 100,
+      "message": "Heap Usage for App <Inspect>: Total Size <106208B> Used <1912B> Still allocated <0B>"
+    },
+    {
+      "timestamp": 1792557465,
+      "level": 100,
+      "message": "Navigation heap used=1352 free=104856 peak=1352"
+    },
+    {
+      "timestamp": 1792557465,
+      "level": 100,
+      "message": "Inspect entry heap=1352 free=104856"
+    },
+    {
+      "timestamp": 1792557466,
+      "level": 100,
+      "message": "Navigation heap used=1272 free=104936 peak=1352"
+    },
+    {
+      "timestamp": 1792557467,
+      "level": 100,
+      "message": "Navigation heap used=1272 free=104936 peak=1352"
+    },
+    {
+      "timestamp": 1792557468,
+      "level": 100,
+      "message": "Navigation heap used=1272 free=104936 peak=1352"
+    },
+    {
+      "timestamp": 1792557469,
+      "level": 100,
+      "message": "Navigation heap used=1272 free=104936 peak=1352"
+    },
+    {
+      "timestamp": 1792557483,
+      "level": 100,
+      "message": "Navigation heap used=1420 free=104788 peak=1420"
+    },
+    {
+      "timestamp": 1792557484,
+      "level": 100,
+      "message": "Navigation heap used=1944 free=104264 peak=1944"
+    },
+    {
+      "timestamp": 1792557610,
+      "level": 100,
+      "message": "Navigation heap used=1568 free=104640 peak=1944"
+    },
+    {
+      "timestamp": 1792557611,
+      "level": 100,
+      "message": "Navigation heap used=1944 free=104264 peak=1944"
+    },
+    {
+      "timestamp": 1792557659,
+      "level": 100,
+      "message": "Navigation heap used=1568 free=104640 peak=1944"
+    },
+    {
+      "timestamp": 1792557660,
+      "level": 100,
+      "message": "Navigation heap used=1944 free=104264 peak=1944"
+    },
+    {
+      "timestamp": 1792557687,
+      "level": 100,
+      "message": "Navigation heap used=1568 free=104640 peak=1944"
+    },
+    {
+      "timestamp": 1792557688,
+      "level": 100,
+      "message": "Navigation heap used=1944 free=104264 peak=1944"
+    },
+    {
+      "timestamp": 1792557702,
+      "level": 100,
+      "message": "Navigation heap used=1568 free=104640 peak=1944"
+    },
+    {
+      "timestamp": 1792557703,
+      "level": 100,
+      "message": "Navigation heap used=1944 free=104264 peak=1944"
+    },
+    {
+      "timestamp": 1792557748,
+      "level": 100,
+      "message": "Navigation heap used=1568 free=104640 peak=1944"
+    },
+    {
+      "timestamp": 1792557750,
+      "level": 100,
+      "message": "Navigation heap used=1944 free=104264 peak=1944"
+    },
+    {
+      "timestamp": 1792557751,
+      "level": 100,
+      "message": "Navigation heap used=1568 free=104640 peak=1944"
+    },
+    {
+      "timestamp": 1792557752,
+      "level": 100,
+      "message": "Navigation heap used=1944 free=104264 peak=1944"
+    },
+    {
+      "timestamp": 1792557788,
+      "level": 100,
+      "message": "Navigation heap used=1568 free=104640 peak=1944"
+    },
+    {
+      "timestamp": 1792557789,
+      "level": 100,
+      "message": "Navigation heap used=1944 free=104264 peak=1944"
+    },
+    {
+      "timestamp": 1792557790,
+      "level": 100,
+      "message": "Navigation heap used=1568 free=104640 peak=1944"
+    },
+    {
+      "timestamp": 1792557791,
+      "level": 100,
+      "message": "Navigation heap used=1944 free=104264 peak=1944"
+    },
+    {
+      "timestamp": 1792557792,
+      "level": 100,
+      "message": "Navigation heap used=1568 free=104640 peak=1944"
+    },
+    {
+      "timestamp": 1792557793,
+      "level": 100,
+      "message": "Heap Usage for App <Inspect>: Total Size <106208B> Used <2060B> Still allocated <0B>"
+    },
+    {
+      "timestamp": 1792557794,
+      "level": 100,
+      "message": "Navigation heap used=1352 free=104856 peak=1352"
+    },
+    {
+      "timestamp": 1792557794,
+      "level": 100,
+      "message": "Inspect entry heap=1352 free=104856"
+    },
+    {
+      "timestamp": 1792557795,
+      "level": 100,
+      "message": "Navigation heap used=1272 free=104936 peak=1352"
+    },
+    {
+      "timestamp": 1792557797,
+      "level": 100,
+      "message": "Navigation heap used=1796 free=104412 peak=1796"
+    },
+    {
+      "timestamp": 1792557797,
+      "level": 100,
+      "message": "Navigation heap used=1420 free=104788 peak=1796"
+    },
+    {
+      "timestamp": 1792557799,
+      "level": 100,
+      "message": "Navigation heap used=1796 free=104412 peak=1796"
+    },
+    {
+      "timestamp": 1792557799,
+      "level": 100,
+      "message": "Navigation heap used=1420 free=104788 peak=1796"
+    },
+    {
+      "timestamp": 1792557800,
+      "level": 100,
+      "message": "Heap Usage for App <Inspect>: Total Size <106208B> Used <1912B> Still allocated <0B>"
+    },
+    {
+      "timestamp": 1792557801,
+      "level": 100,
+      "message": "Navigation heap used=1352 free=104856 peak=1352"
+    },
+    {
+      "timestamp": 1792557801,
+      "level": 100,
+      "message": "Inspect entry heap=1352 free=104856"
+    },
+    {
+      "timestamp": 1792557802,
+      "level": 100,
+      "message": "Navigation heap used=1272 free=104936 peak=1352"
+    },
+    {
+      "timestamp": 1792557804,
+      "level": 100,
+      "message": "Navigation heap used=1796 free=104412 peak=1796"
+    },
+    {
+      "timestamp": 1792557805,
+      "level": 100,
+      "message": "Navigation heap used=1420 free=104788 peak=1796"
+    },
+    {
+      "timestamp": 1792557806,
+      "level": 100,
+      "message": "Navigation heap used=1796 free=104412 peak=1796"
+    },
+    {
+      "timestamp": 1792557807,
+      "level": 100,
+      "message": "Navigation heap used=1420 free=104788 peak=1796"
+    },
+    {
+      "timestamp": 1792557807,
+      "level": 100,
+      "message": "Heap Usage for App <Inspect>: Total Size <106208B> Used <1912B> Still allocated <0B>"
+    },
+    {
+      "timestamp": 1792557809,
+      "level": 100,
+      "message": "Navigation heap used=1352 free=104856 peak=1352"
+    },
+    {
+      "timestamp": 1792557809,
+      "level": 100,
+      "message": "Inspect entry heap=1352 free=104856"
+    },
+    {
+      "timestamp": 1792557810,
+      "level": 100,
+      "message": "Navigation heap used=1272 free=104936 peak=1352"
+    },
+    {
+      "timestamp": 1792557812,
+      "level": 100,
+      "message": "Navigation heap used=1796 free=104412 peak=1796"
+    },
+    {
+      "timestamp": 1792557812,
+      "level": 100,
+      "message": "Navigation heap used=1420 free=104788 peak=1796"
+    },
+    {
+      "timestamp": 1792557814,
+      "level": 100,
+      "message": "Navigation heap used=1796 free=104412 peak=1796"
+    },
+    {
+      "timestamp": 1792557814,
+      "level": 100,
+      "message": "Navigation heap used=1420 free=104788 peak=1796"
+    },
+    {
+      "timestamp": 1792557815,
+      "level": 100,
+      "message": "Heap Usage for App <Inspect>: Total Size <106208B> Used <1912B> Still allocated <0B>"
+    },
+    {
+      "timestamp": 1792557816,
+      "level": 100,
+      "message": "Navigation heap used=1352 free=104856 peak=1352"
+    },
+    {
+      "timestamp": 1792557816,
+      "level": 100,
+      "message": "Inspect entry heap=1352 free=104856"
+    },
+    {
+      "timestamp": 1792557817,
+      "level": 100,
+      "message": "Navigation heap used=1272 free=104936 peak=1352"
+    },
+    {
+      "timestamp": 1792557819,
+      "level": 100,
+      "message": "Navigation heap used=1796 free=104412 peak=1796"
+    },
+    {
+      "timestamp": 1792557820,
+      "level": 100,
+      "message": "Navigation heap used=1420 free=104788 peak=1796"
+    },
+    {
+      "timestamp": 1792557821,
+      "level": 100,
+      "message": "Navigation heap used=1796 free=104412 peak=1796"
+    },
+    {
+      "timestamp": 1792557822,
+      "level": 100,
+      "message": "Navigation heap used=1420 free=104788 peak=1796"
+    },
+    {
+      "timestamp": 1792557822,
+      "level": 100,
+      "message": "Heap Usage for App <Inspect>: Total Size <106208B> Used <1912B> Still allocated <0B>"
+    },
+    {
+      "timestamp": 1792557824,
+      "level": 100,
+      "message": "Navigation heap used=1352 free=104856 peak=1352"
+    },
+    {
+      "timestamp": 1792557824,
+      "level": 100,
+      "message": "Inspect entry heap=1352 free=104856"
+    },
+    {
+      "timestamp": 1792557825,
+      "level": 100,
+      "message": "Navigation heap used=1272 free=104936 peak=1352"
+    },
+    {
+      "timestamp": 1792557826,
+      "level": 100,
+      "message": "Navigation heap used=1796 free=104412 peak=1796"
+    },
+    {
+      "timestamp": 1792557827,
+      "level": 100,
+      "message": "Navigation heap used=1420 free=104788 peak=1796"
+    },
+    {
+      "timestamp": 1792557829,
+      "level": 100,
+      "message": "Navigation heap used=1796 free=104412 peak=1796"
+    },
+    {
+      "timestamp": 1792557829,
+      "level": 100,
+      "message": "Navigation heap used=1420 free=104788 peak=1796"
+    },
+    {
+      "timestamp": 1792557830,
+      "level": 100,
+      "message": "Heap Usage for App <Inspect>: Total Size <106208B> Used <1912B> Still allocated <0B>"
+    },
+    {
+      "timestamp": 1792557831,
+      "level": 100,
+      "message": "Navigation heap used=1352 free=104856 peak=1352"
+    },
+    {
+      "timestamp": 1792557831,
+      "level": 100,
+      "message": "Inspect entry heap=1352 free=104856"
+    },
+    {
+      "timestamp": 1792557832,
+      "level": 100,
+      "message": "Navigation heap used=1272 free=104936 peak=1352"
+    },
+    {
+      "timestamp": 1792557834,
+      "level": 100,
+      "message": "Navigation heap used=1796 free=104412 peak=1796"
+    },
+    {
+      "timestamp": 1792557834,
+      "level": 100,
+      "message": "Navigation heap used=1420 free=104788 peak=1796"
+    },
+    {
+      "timestamp": 1792557836,
+      "level": 100,
+      "message": "Navigation heap used=1796 free=104412 peak=1796"
+    },
+    {
+      "timestamp": 1792557837,
+      "level": 100,
+      "message": "Navigation heap used=1420 free=104788 peak=1796"
+    },
+    {
+      "timestamp": 1792557837,
+      "level": 100,
+      "message": "Heap Usage for App <Inspect>: Total Size <106208B> Used <1912B> Still allocated <0B>"
+    },
+    {
+      "timestamp": 1792557838,
+      "level": 100,
+      "message": "Navigation heap used=1352 free=104856 peak=1352"
+    },
+    {
+      "timestamp": 1792557838,
+      "level": 100,
+      "message": "Inspect entry heap=1352 free=104856"
+    },
+    {
+      "timestamp": 1792557840,
+      "level": 100,
+      "message": "Navigation heap used=1272 free=104936 peak=1352"
+    },
+    {
+      "timestamp": 1792557841,
+      "level": 100,
+      "message": "Navigation heap used=1796 free=104412 peak=1796"
+    },
+    {
+      "timestamp": 1792557842,
+      "level": 100,
+      "message": "Navigation heap used=1420 free=104788 peak=1796"
+    },
+    {
+      "timestamp": 1792557843,
+      "level": 100,
+      "message": "Navigation heap used=1796 free=104412 peak=1796"
+    },
+    {
+      "timestamp": 1792557844,
+      "level": 100,
+      "message": "Navigation heap used=1420 free=104788 peak=1796"
+    },
+    {
+      "timestamp": 1792557845,
+      "level": 100,
+      "message": "Heap Usage for App <Inspect>: Total Size <106208B> Used <1912B> Still allocated <0B>"
+    },
+    {
+      "timestamp": 1792557846,
+      "level": 100,
+      "message": "Navigation heap used=1352 free=104856 peak=1352"
+    },
+    {
+      "timestamp": 1792557846,
+      "level": 100,
+      "message": "Inspect entry heap=1352 free=104856"
+    },
+    {
+      "timestamp": 1792557847,
+      "level": 100,
+      "message": "Navigation heap used=1272 free=104936 peak=1352"
+    },
+    {
+      "timestamp": 1792557848,
+      "level": 100,
+      "message": "Navigation heap used=1796 free=104412 peak=1796"
+    },
+    {
+      "timestamp": 1792557851,
+      "level": 100,
+      "message": "Navigation heap used=1568 free=104640 peak=1796"
+    },
+    {
+      "timestamp": 1792557852,
+      "level": 100,
+      "message": "Navigation heap used=1944 free=104264 peak=1944"
+    },
+    {
+      "timestamp": 1792557853,
+      "level": 100,
+      "message": "Navigation heap used=1568 free=104640 peak=1944"
+    },
+    {
+      "timestamp": 1792557854,
+      "level": 100,
+      "message": "Navigation heap used=1944 free=104264 peak=1944"
+    },
+    {
+      "timestamp": 1792557855,
+      "level": 100,
+      "message": "Navigation heap used=1568 free=104640 peak=1944"
+    },
+    {
+      "timestamp": 1792557856,
+      "level": 100,
+      "message": "Navigation heap used=1944 free=104264 peak=1944"
+    },
+    {
+      "timestamp": 1792557857,
+      "level": 100,
+      "message": "Navigation heap used=1568 free=104640 peak=1944"
+    },
+    {
+      "timestamp": 1792557859,
+      "level": 100,
+      "message": "Navigation heap used=1944 free=104264 peak=1944"
+    },
+    {
+      "timestamp": 1792557859,
+      "level": 100,
+      "message": "Navigation heap used=1568 free=104640 peak=1944"
+    },
+    {
+      "timestamp": 1792557861,
+      "level": 100,
+      "message": "Navigation heap used=1944 free=104264 peak=1944"
+    },
+    {
+      "timestamp": 1792557861,
+      "level": 100,
+      "message": "Navigation heap used=1568 free=104640 peak=1944"
+    },
+    {
+      "timestamp": 1792557863,
+      "level": 100,
+      "message": "Navigation heap used=1944 free=104264 peak=1944"
+    },
+    {
+      "timestamp": 1792557864,
+      "level": 100,
+      "message": "Navigation heap used=1568 free=104640 peak=1944"
+    },
+    {
+      "timestamp": 1792557865,
+      "level": 100,
+      "message": "Navigation heap used=1944 free=104264 peak=1944"
+    },
+    {
+      "timestamp": 1792557866,
+      "level": 100,
+      "message": "Navigation heap used=1568 free=104640 peak=1944"
+    },
+    {
+      "timestamp": 1792557868,
+      "level": 100,
+      "message": "Navigation heap used=1944 free=104264 peak=1944"
+    },
+    {
+      "timestamp": 1792557868,
+      "level": 100,
+      "message": "Navigation heap used=1568 free=104640 peak=1944"
+    },
+    {
+      "timestamp": 1792557870,
+      "level": 100,
+      "message": "Navigation heap used=1944 free=104264 peak=1944"
+    },
+    {
+      "timestamp": 1792557871,
+      "level": 100,
+      "message": "Navigation heap used=1568 free=104640 peak=1944"
+    },
+    {
+      "timestamp": 1792557872,
+      "level": 100,
+      "message": "Navigation heap used=1944 free=104264 peak=1944"
+    },
+    {
+      "timestamp": 1792557873,
+      "level": 100,
+      "message": "Navigation heap used=1568 free=104640 peak=1944"
+    },
+    {
+      "timestamp": 1792557875,
+      "level": 100,
+      "message": "Navigation heap used=1944 free=104264 peak=1944"
+    },
+    {
+      "timestamp": 1792557875,
+      "level": 100,
+      "message": "Navigation heap used=1568 free=104640 peak=1944"
+    },
+    {
+      "timestamp": 1792557877,
+      "level": 100,
+      "message": "Navigation heap used=1944 free=104264 peak=1944"
+    },
+    {
+      "timestamp": 1792557877,
+      "level": 100,
+      "message": "Navigation heap used=1568 free=104640 peak=1944"
+    },
+    {
+      "timestamp": 1792557879,
+      "level": 100,
+      "message": "Navigation heap used=1944 free=104264 peak=1944"
+    },
+    {
+      "timestamp": 1792557880,
+      "level": 100,
+      "message": "Navigation heap used=1568 free=104640 peak=1944"
+    },
+    {
+      "timestamp": 1792557881,
+      "level": 100,
+      "message": "Navigation heap used=1944 free=104264 peak=1944"
+    }
+  ]
+}

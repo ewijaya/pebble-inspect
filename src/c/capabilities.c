@@ -1,0 +1,25 @@
+#include "capabilities.h"
+
+const char *inspect_capabilities_text(void) {
+  return "AVAILABLE\nBattery level, charge state, phone / PebbleKit connection, "
+    "Inspect heap used / free / total and use%, model and firmware.\n\n"
+    "DISK SPACE\nFilesystem size, used, available and use%: unavailable. "
+    "Stock firmware has no public filesystem-space API. A df-style view "
+    "requires firmware support.\n\n"
+    "CPU / SYSTEM RAM\nStock public SDK has no system-wide CPU load, RAM use, "
+    "or process-list API. Inspect memory describes this app only.\n\n"
+    "BATTERY HEALTH\nNo public cycle count, capacity, temperature, voltage or "
+    "current readings. Remaining time is an observed estimate, not health.\n\n"
+    "RADIO\nNo Bluetooth RSSI API. "
+    "Connection means app reachability, not signal strength.\n\n"
+    "ENERGY / APP STORAGE\nNo per-app energy or installed-app storage breakdown. "
+    "Own persistence allowance is not free flash.\n\n"
+    "UPTIME / RESET / CRASH\nNo stock app API for watch uptime, restart count, "
+    "reset reason or system crash log.\n\n"
+    "SENSORS / BACKGROUND\nNo global sensor-owner, worker or wakeup list. "
+    "These system views require firmware support.\n\n"
+    "OBSERVATION LIMIT\nHistory records foreground sessions only. "
+    "Closing Inspect or losing focus creates a gap. No background worker, "
+    "phone code or network service runs.\n\n"
+    "DATA SOURCE\nStock Pebble public C SDK. Unavailable readings stay unavailable.";
+}

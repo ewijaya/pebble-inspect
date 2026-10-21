@@ -1,0 +1,11 @@
+{
+  "recorded_at_utc": "2026-10-21T04:45:58.187987+00:00",
+  "artifact": "artifacts/pebble-inspect-0.1.1.pbw",
+  "sha256": "f985c3b017abad520c8abe8bfe060b72ea147df2cbdffe5c0b3989e94bc3dd1c",
+  "version": "0.1.1",
+  "transport": "CloudPebble through phone Dev Connection",
+  "install": "App install succeeded",
+  "screenshot": "artifacts/pt2-0.1.1-installed.png",
+  "visual_check": "Inspect Overview visible on physical watch with larger information text; page scrolled; 90% reported battery",
+  "scope": "Installation and display verification; wider hardware validation remains pending"
+}

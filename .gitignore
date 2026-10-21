@@ -1,0 +1,15 @@
+build/
+.lock-waf*
+.waf-*
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+.emulator/
+.env*
+*.pem
+*credentials*
+*token*.json
+toolchains/
+vendor/
+.DS_Store

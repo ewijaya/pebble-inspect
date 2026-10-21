@@ -1,0 +1,20 @@
+{
+  "pebble_tool": "5.0.40",
+  "watchapp_sdk": "4.33.1",
+  "host_arch": "x86_64",
+  "python": "3.10.12",
+  "node": "24.21.0",
+  "npm": "11.19.0",
+  "host_gcc": "11.4.0",
+  "arm_gcc": "14.2.1 20241119",
+  "qemu": "10.1.5-pebble14",
+  "firmware_source_audited": "5cf6c353bad2903e0a789b27bce278f54317b267",
+  "sdk_files_sha256": {
+    "sdk-core/manifest.json": "c99c29c80852b8900679b0c79863f57563f86567671cf578f4cc0fd9f49cd733",
+    "sdk-core/pebble/emery/include/pebble.h": "2c801c32d77fab70f576482afb21586deba256fbda90a3528f6b02fbe3025548",
+    "sdk-core/pebble/emery/lib/libpebble.a": "6fc8d52747085df6a041b257b6657ec9fa2816a8370a342cf6be5cf8b9762e8e",
+    "sdk-core/pebble/emery/qemu/qemu_micro_flash.bin": "697e52e6c952c376c9109089f7cbab61c53274470afa99a0c84a61ed2d392fa9",
+    "toolchain/bin/qemu-pebble": "c906fd86d03ed78df3311d7c8a02e62e078b931cb47f594b1a33d160903a0ab1",
+    "toolchain/arm-none-eabi/bin/arm-none-eabi-gcc": "a47ae91699d0611c817a166c986df647d56ce57e9162afa6d25385dd1771b204"
+  }
+}
